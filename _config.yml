@@ -1,0 +1,72 @@
+title:            Saul's site
+description:      Welcome to my site.
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+
+#baseurl: "/website"
+baseurl: "/ga"
+url: ""
+https://toscanosaul.github.io/
+#http://localhost:5000
+#https://jponttuset.github.io
+disqus_shortname: toscanosaul
+
+# Owner/author information
+owner:
+  name:           Saul Toscano-Palmerin
+  avatar:         yo2.jpg
+  bio:            I'm from Morelia, a colonial city located in Mexico. Currently living in Ithaca, NY.
+  email:          toscano.saul@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+#  twitter: jponttuset
+  linkedin: https://www.linkedin.com/in/sa%C3%BAl-toscano-palmer%C3%ADn-4493a3105/
+#  google_scholar: VCBBx24AAAAJ
+#  google_plus: 113718226018314522413
+  github: https://github.com/toscanosaul
+# Analytics and webmaster tools stuff goes here
+#google_analytics: UA-52736040-1
+#google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+#bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Resume
+    url: /cv/
+  - title: Publications
+    url: /publications/
+  - title: Code
+    url: /code/
+  - title: Teaching
+    url: /teaching/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+#pygments:    true
+highlighter: rouge
+markdown:    kramdown
+kramdown:
+  extensions: ["strikethrough"]
+  
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
