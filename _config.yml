@@ -5,7 +5,7 @@ description:      Welcome to my site.
 #baseurl: "/website"
 baseurl: "/ga"
 url: ""
-https://toscanosaul.github.io/
+#https://toscanosaul.github.io/
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: toscanosaul
