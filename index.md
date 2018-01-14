@@ -16,7 +16,7 @@ application for training machine learning algorithms, optimization via simulatio
 
 <br />
 Previously, I did a one year internship at <a href="https://www.uber.com/" target="_blank">Uber</a>
-to solve pricing and transportation problems.
+as a data scientist, where I worked on pricing and transportation problems.
 
 <br />
 Before joining Cornell, I received a B.S. degree in Mathematics by the <a href="http://www.cimat.mx/" target="_blank">Center for Mathematical Research (CIMAT)</a>
