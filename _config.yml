@@ -3,8 +3,8 @@ description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 
 #baseurl: "/website"
-#baseurl: "/ga"
-#url: ""
+baseurl: "/ga"
+url: "https://toscanosaul.github.io"
 #https://toscanosaul.github.io/
 #http://localhost:5000
 #https://jponttuset.github.io
