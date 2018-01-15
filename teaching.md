@@ -8,8 +8,11 @@ comments: false
 ---
 
 
-### Instructor
+### Cornell University, Instructor
 
-* Big Data Technologies (ORIE 5270)
+* Big Data Technologies (ORIE 5270), Spring 2018, Masters level. Topics: Statistical
+and software tools for data mining of massive datasets, graphical display, and
+machine learning.
 
-* Computational Methods in Operations Research (ORIE 6125)
+* Computational Methods in Operations Research (ORIE 6125), Spring 2018, PhD level.
+Topics: Computational tools to perform research in operations research and related fields.
