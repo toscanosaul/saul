@@ -15,7 +15,7 @@ My research focuses on the development and analysis of Bayesian optimization alg
 application for training machine learning algorithms, optimization via simulation, and design of experiments.
 
 <br />
-Previously from 2016 to 2017, I did a one year internship at <a href="https://www.uber.com/" target="_blank">Uber</a>
+Previously, from 2016 to 2017, I did a one year internship at <a href="https://www.uber.com/" target="_blank">Uber</a>
 as a data scientist, where I worked on pricing and transportation problems.
 
 <br />
