@@ -10,7 +10,7 @@ comments: false
 
 ### Cornell University, Instructor
 
-* Big Data Technologies (ORIE 5270), Spring 2018, Masters level. Topics: Statistical
+* [Big Data Technologies (ORIE 5270)](orie5270), Spring 2018, Masters level. Topics: Statistical
 and computational tools for data mining of massive datasets, graphical display, and
 machine learning.
 
