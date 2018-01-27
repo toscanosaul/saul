@@ -142,7 +142,7 @@ fit_intercept = True
 def sgd(momentum=0.9, lr=0.01, batch_size=1001, alpha=0.1, maxepoch=50, eps=1e-8):
     """
     Real-time forward-mode algorithm using stochastic gradient descent with constant learning 
-    rate. Observe that you should only find the optimal the learning rate (lr), and the 
+    rate. Observe that you should only find the optimal learning rate (lr), and 
     penalty parameter (alpha). 
     
     We use the SGD with momentum, which is defined here: 
