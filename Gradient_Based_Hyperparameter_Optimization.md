@@ -2,7 +2,7 @@
 ## Sketch of the Assignment 4
 Observe that I do not include detail comments of the functions, because I want you to study the different methods of this notebook. However, you should include detailed commments in your solution, where you explain the functions, and their parameters and outputs.
 
-You should plot the number of epoch of the Real-time forward-mode algorithm versus the loss function on the test dataset.
+You should plot the number of epoch of the Real-time forward-mode algorithm versus the loss function evaluated on the test dataset.
 
 
 ```python
