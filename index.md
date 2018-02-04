@@ -7,8 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 I am a PhD student in the <a href="http://www.orie.cornell.edu/" target="_blank">School of
-Operations Research and Information Engineering (ORIE) of Cornell University</a>, where I am advised
-by <a href="https://people.orie.cornell.edu/pfrazier/" target="_blank">Prof. Peter Frazier</a>.
+Operations Research and Information Engineering (ORIE) of Cornell University</a>, working with <a href="https://people.orie.cornell.edu/pfrazier/" target="_blank">Prof. Peter Frazier</a>.
 
 <br />
 My research focuses on the development and analysis of Bayesian optimization algorithms, and their
