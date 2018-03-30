@@ -8,7 +8,6 @@ comments: false
 ---
 
 * Saul Toscano-Palmerin and Peter Frazier, <a href="https://arxiv.org/pdf/1803.08661.pdf" download="bqopaper.pdf">Bayesian Optimization with Expensive Integrands</a>, 2018. Submitted.
-
  * [Presentation](/saul/bqo.pdf) given in the 2018 INFORMS Optimization Society Conference.
  
  
