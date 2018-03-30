@@ -7,7 +7,7 @@ modified: 8-7-2014
 comments: false
 ---
 
-* Saul Toscano-Palmerin and Peter Frazier, "Bayesian Optimization with Expensive Integrands", 2018. Submitted.
+* Saul Toscano-Palmerin and Peter Frazier, <a href="https://arxiv.org/pdf/1803.08661.pdf" download="bqopaper.pdf">Bayesian Optimization with Expensive Integrands</a>, 2018. Submitted.
 
 * Jian Wu, Saul Toscano-Palmerin, Peter Frazier, Andrew Gordon Wilson, "Continuous-Fidelity Bayesian Optimization with Trace Observations", 2018. Submitted. 
 
