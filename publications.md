@@ -12,7 +12,7 @@ comments: false
     [Presentation](/saul/bqo.pdf) given in the 2018 INFORMS Optimization Society Conference.
    
    
-* Jian Wu, Saul Toscano-Palmerin, Peter Frazier, Andrew Gordon Wilson, "Continuous-Fidelity Bayesian Optimization with Trace Observations", 2018. Submitted. 
+* Jian Wu, Saul Toscano-Palmerin, Peter Frazier, Andrew Gordon Wilson, "Practical Multi-fidelity Bayesian Optimization for Hyperparameter Tuning", Uncertainty in Artificial Intelligence (UAI), 2019. 
 
 * Saul Toscano-Palmerin and Peter Frazier,  <a href="https://arxiv.org/pdf/1602.02338.pdf" download="SBOpaper.pdf">Stratified Bayesian Optimization</a>, Proceedings of the 12th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC), 2017.
 
