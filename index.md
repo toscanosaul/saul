@@ -12,7 +12,7 @@ I am a quantitative researcher at Citadel Securities in London. I develop alpha 
 Before I developed state-of-the-art machine learning algorithms for speech recognition at Microsoft in Bellevue, W.A. 
 
 <br />
-Previously I was a lead develper for a major redesign of Uber's pricing system, route-based pricing.
+Previously I was a lead develper for a major redesign of Uber's pricing system.
 
 
 <br />
