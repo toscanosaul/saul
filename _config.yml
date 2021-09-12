@@ -33,12 +33,7 @@ google_analytics: UA-112463254-1
 links:
   - title: Resume
     url: /cv/
-  - title: Publications
-    url: /publications/
-  - title: Code
-    url: /software.html/
-  - title: Teaching
-    url: /teaching/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
