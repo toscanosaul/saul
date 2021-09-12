@@ -32,7 +32,7 @@ google_analytics: UA-112463254-1
 # For external links add external: true
 links:
   - title: Resume
-    url: /cv/
+    url: TOSCANOresume.pdf
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
