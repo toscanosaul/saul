@@ -6,20 +6,14 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 
-I am a PhD student in the <a href="http://www.orie.cornell.edu/" target="_blank">School of
-Operations Research and Information Engineering (ORIE) of Cornell University</a>, working with <a href="https://people.orie.cornell.edu/pfrazier/" target="_blank">Prof. Peter Frazier</a>.
+I am a quantitative researcher at Citadel Securities in London. I develop alpha signals for options analyzing high frequency data and using machine learning algorithms. 
 
-<br />
-My research focuses on the development and analysis of Bayesian optimization algorithms, and their
-application for training machine learning algorithms, optimization via simulation, and design of experiments.
+Before I worked developing machine learning algorithms for speech recognition at Microsoft in Bellevue, W.A. Previously I worked on pricing and transportation problems at Uber in San Francisco.
 
-<br />
-Previously, from 2016 to 2017, I did a one year internship at <a href="https://www.uber.com/" target="_blank">Uber</a>
-as a data scientist, where I worked on pricing and transportation problems.
+I got my PhD in Operations Research from Cornell in the U.S., and B.Sc. in Mathematics at the University of Guanajuato in Mexico.
 
-<br />
-Before joining Cornell, I received a B.S. degree in Mathematics by the <a href="http://www.cimat.mx/" target="_blank">Center for Mathematical Research (CIMAT)</a>
-under the supervision of <a href="http://www.cimat.mx/~pabreu/" target="_blank">Prof. Victor Perez-Abreu</a>.
+
+
 
 
 
