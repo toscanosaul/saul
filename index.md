@@ -9,7 +9,8 @@ tags: [Jekyll, theme, responsive, blog, template]
 I am a quantitative researcher at Citadel Securities in London. I develop alpha signals for options analyzing high frequency data and using machine learning algorithms. 
 
 <br />
-Before I worked developing machine learning algorithms for speech recognition at Microsoft in Bellevue, W.A. Previously I worked on pricing and transportation problems at Uber in San Francisco.
+Before I developed state-of-the-art machine learning algorithms for speech recognition at Microsoft in Bellevue, W.A. Previously I was a lead develper for a major redesign of Uber's pricing system, route-based pricing (https://marketplace.uber.com/pricing/route-based-pricing).
+
 
 <br />
 I got my PhD in Operations Research from Cornell in the U.S., and B.Sc. in Mathematics at the University of Guanajuato in Mexico.
