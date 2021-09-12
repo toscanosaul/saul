@@ -16,7 +16,7 @@ Previously I was a lead developer for a major redesign of Uber's pricing system 
 
 
 <br />
-I got my PhD in Operations Research from Cornell in the U.S., and B.Sc. in Mathematics at the University of Guanajuato in Mexico.
+I got my PhD in Operations Research from Cornell in the U.S., and B.Sc. in Mathematics from the University of Guanajuato in Mexico.
 
 
 
