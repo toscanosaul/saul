@@ -1,5 +1,5 @@
 ---
-layout: _layouts/home2
+layout: home2
 title:
 description: "Saul Toscano's website"
 tags: [Jekyll, theme, responsive, blog, template]
