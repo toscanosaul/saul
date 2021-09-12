@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 
-I am a quantitative researcher at Citadel Securities in London. I develop alpha signals for options analyzing high frequency data and using machine learning algorithms. 
+I am a quantitative researcher at Citadel Securities in London. I develop alpha signals for options analyzing high-frequency data and using machine learning algorithms. 
 
 <br />
 Before I developed state-of-the-art machine learning algorithms for speech recognition at Microsoft in Bellevue, WA. 
