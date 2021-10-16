@@ -33,7 +33,8 @@ google_analytics: UA-112463254-1
 links:
   - title: Resume
     url: /resume.pdf
-
+  - title: Spanish
+    url: /espanol/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
