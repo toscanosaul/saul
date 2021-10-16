@@ -38,6 +38,12 @@ links:
     url: /resume.pdf
   - title: Español
     url: /espanol/
+    
+links2:
+  - title: Resume
+    url: /resume.pdf
+  - title: English
+    url: /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
