@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: espanol
 permalink: /espanol/
 title: 
 tags: [espanol]
