@@ -17,5 +17,5 @@ En el pasado fui uno de los principales desarrolladores de los algoritmos encarg
 
 
 <br />
-Tengo una maestría y doctorado en matemáticas aplicadas otorgadas por la Universidad de Cornell en Estados Unidos, y una licenciatura en matemáticas otorgada
+Tengo una maestría y doctorado en matemáticas aplicadas otorgados por la Universidad de Cornell en Estados Unidos, y una licenciatura en matemáticas otorgada
 por la Universidad de Guanajuato en México.
