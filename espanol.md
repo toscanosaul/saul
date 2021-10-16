@@ -5,7 +5,7 @@ title:
 tags: [espanol]
 ---
 
-Soy un investigador en Citadel Securities en Londres. Mi trabajo consiste en crear inversiones en las bolsas de valores del mundo usando probabilidad y estadística. 
+Soy un investigador en Citadel Securities en Londres. Mi trabajo consiste en crear inversiones automatizadas en las bolsas de valores del mundo usando probabilidad y estadística. 
 
 <br />
 Anteriormente trabajé como científico desarollando algoritmos de reconocimiento automático del habla en Microsoft en Bellevue, WA. Estos algoritmos son 
